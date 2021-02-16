@@ -56,12 +56,12 @@ let task = '';
 let tz = '';
 let uid = '624084'
 let headerVal = {
-  'User-Agent': `Mozilla/5.0 (Linux; Android 10; M2007J3SC Build/QKQ1.200419.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36`,
-  'Accept': `application/signed-exchange;v=b3;q=0.9,*/*;q=0.8`,
+  'User-Agent': `cong hua shi pin/1.1.3 (Linux; Android 10; M2007J3SC Build/QKQ1.200419.002; wv)`,
+  'Accept': `*/*`,
   'Accept-Encoding': `gzip, deflate, br`,
   'Connection': `keep-alive`,
   'Content-Type': `application/x-www-form-urlencoded`,
-  'Host': `res.kxp.com`,
+  'Host': `app.kxp.com`,
   'Accept-Language': `zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7`
 };
 
