@@ -35,9 +35,11 @@ jobs:
           cd ~/Self_Actions
           git checkout master
           npm install
-       - name: '运行 【葱花视频1】'
-         run: |
-           cd ~/Self_2/Scripts
-           node conghua1.js
         env:
           TZ: Asia/shanghai
+      - name: '运行 【葱花视频1】'
+        run: |
+          cd ~/SELF_2/Scripts
+          node conghua1.js
+        env:
+          TZ: Asia/shanghai 
