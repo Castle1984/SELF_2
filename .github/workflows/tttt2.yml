@@ -1,4 +1,4 @@
-name: zmsp
+name: zmsp2
 
 on:
   workflow_dispatch:
